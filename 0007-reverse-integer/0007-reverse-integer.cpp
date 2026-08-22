@@ -6,10 +6,10 @@ public:
         {
             int lastDigit = x%10;
 
-            if (revNum > INT_MAX /10 || (revNum == INT_MAX /10 && lastDigit >7))
+            if (revNum > INT_MAX /10 )
             return 0;
 
-            if (revNum < INT_MIN /10 || (revNum == INT_MIN /10 && lastDigit <-8))
+            if (revNum < INT_MIN /10 )
             return 0;
 
               x= x/10;
