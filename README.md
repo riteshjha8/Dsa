@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/riteshjha8/Dsa/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
