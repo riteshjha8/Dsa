@@ -7,7 +7,7 @@ public:
     for(int i=1; i<n;i++){
         if(nums[i]!=nums[i-1]){
             nums[insert]=nums[i];
-            insert++;
+           insert =insert+1;
         }
     }
     return insert;
