@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/riteshjha8/Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/riteshjha8/Dsa/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
