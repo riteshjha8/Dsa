@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/riteshjha8/Dsa/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
