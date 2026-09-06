@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/riteshjha8/Dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/riteshjha8/Dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/riteshjha8/Dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/riteshjha8/Dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/riteshjha8/Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/riteshjha8/Dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/riteshjha8/Dsa/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
