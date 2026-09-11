@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/riteshjha8/Dsa/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riteshjha8/Dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riteshjha8/Dsa/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riteshjha8/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
@@ -94,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
