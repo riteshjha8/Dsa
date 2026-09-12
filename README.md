@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/riteshjha8/Dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/riteshjha8/Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
@@ -98,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
