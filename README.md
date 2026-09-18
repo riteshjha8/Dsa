@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/riteshjha8/Dsa/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/riteshjha8/Dsa/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/riteshjha8/Dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/riteshjha8/Dsa/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
