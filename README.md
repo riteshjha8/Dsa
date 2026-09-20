@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/riteshjha8/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/riteshjha8/Dsa/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshjha8/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshjha8/Dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshjha8/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/riteshjha8/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riteshjha8/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riteshjha8/Dsa/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
