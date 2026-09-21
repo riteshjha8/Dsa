@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshjha8/Dsa/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riteshjha8/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
