@@ -2,14 +2,13 @@ class Solution {
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
        
-        vector<long long> result(k, 0);
-        vector<long long> dp(k, 0);
+          long long result[5] = {0}; 
+        long long dp[5] = {0}; 
 
         for (int num : nums) {
             num %= k;
-            vector<long long> newdp(k, 0);
+            long long newdp[5] = {0};
 
-            // extend previous subarrays
             for (int r = 0; r < k; r++) {
                 if (dp[r]) {
                     int newr = (r * num) % k;
@@ -17,17 +16,14 @@ public:
                 }
             }
 
-            // start new subarray
             newdp[num]++;
 
-            // accumulate
             for (int r = 0; r < k; r++) {
                 result[r] += newdp[r];
+                dp[r] = newdp[r]; // overwrite directly instead of swap
             }
-
-            dp.swap(newdp); 
         }
 
-        return result;
+        return vector<long long>(result, result + k);
     }
 };
