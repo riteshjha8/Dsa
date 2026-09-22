@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/riteshjha8/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riteshjha8/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/riteshjha8/Dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/riteshjha8/Dsa/tree/master/3525-find-x-value-of-array-ii) |
