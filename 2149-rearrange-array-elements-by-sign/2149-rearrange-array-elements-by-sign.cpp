@@ -8,7 +8,8 @@ public:
             if(nums[i]<0){
                 ans[negidx]=nums[i];
                 negidx +=2;
-            }else{
+            }
+            if(nums[i]>0){
                 ans[posidx]=nums[i];
                 posidx +=2;
             }
