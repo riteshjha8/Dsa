@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1800-maximum-ascending-subarray-sum](https://github.com/riteshjha8/Dsa/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/riteshjha8/Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/riteshjha8/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/riteshjha8/Dsa/tree/master/3525-find-x-value-of-array-ii) |
 ## Divide and Conquer
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/riteshjha8/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riteshjha8/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/riteshjha8/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/riteshjha8/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/riteshjha8/Dsa/tree/master/3525-find-x-value-of-array-ii) |
 ## Sliding Window
 |  |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/riteshjha8/Dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/riteshjha8/Dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/riteshjha8/Dsa/tree/master/0073-set-matrix-zeroes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/riteshjha8/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
