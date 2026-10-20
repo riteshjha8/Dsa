@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riteshjha8/Dsa/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/riteshjha8/Dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/riteshjha8/Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshjha8/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/riteshjha8/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/riteshjha8/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/riteshjha8/Dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/riteshjha8/Dsa/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshjha8/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/riteshjha8/Dsa/tree/master/0128-longest-consecutive-sequence) |
