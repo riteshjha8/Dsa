@@ -10,7 +10,9 @@ public:
             if(mpp[nums[i]] == mm){
                 ans.push_back(nums[i]);
             }
+            if(ans.size()==2) break;
         }
+        sort(ans.begin(), ans.end());
         return ans;
     }
 };
