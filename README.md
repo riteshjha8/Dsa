@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/riteshjha8/Dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/riteshjha8/Dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/riteshjha8/Dsa/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/riteshjha8/Dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/riteshjha8/Dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/riteshjha8/Dsa/tree/master/0048-rotate-image) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/riteshjha8/Dsa/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/riteshjha8/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/riteshjha8/Dsa/tree/master/0169-majority-element) |
