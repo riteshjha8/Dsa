@@ -1,11 +1,11 @@
 class Solution {
 public:
-void ms(vector<int>& nums1,vector<int> & nums2, int m, int n){
+void ms(vector<int>& nums1,vector<int> & nums2, int n, int m){
     vector<int> temp;
     int left=0;
     int right=0;
     
-    while(left<m && right<n){
+    while(left<n && right<m){
         if(nums1[left]<=nums2[right]){
             temp.push_back(nums1[left]);
             left++;
@@ -15,11 +15,11 @@ void ms(vector<int>& nums1,vector<int> & nums2, int m, int n){
 
         }
     }
-    while(left < m){
+    while(left < n){
         temp.push_back(nums1[left]);
         left++;
     }
-    while(right <n){
+    while(right <m){
         temp.push_back(nums2[right]);
         right++;
     }
@@ -28,7 +28,7 @@ void ms(vector<int>& nums1,vector<int> & nums2, int m, int n){
     }
 
 }
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        ms(nums1,nums2,m,n);
+    void merge(vector<int>& nums1, int n, vector<int>& nums2, int m) {
+        ms(nums1,nums2,n,m);
     }
 };
