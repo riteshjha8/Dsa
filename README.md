@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riteshjha8/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/riteshjha8/Dsa/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/riteshjha8/Dsa/tree/master/3525-find-x-value-of-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/riteshjha8/Dsa/tree/master/3886-sum-of-sortable-integers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/riteshjha8/Dsa/tree/master/0125-valid-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/riteshjha8/Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2409-count-days-spent-together](https://github.com/riteshjha8/Dsa/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/riteshjha8/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/riteshjha8/Dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
