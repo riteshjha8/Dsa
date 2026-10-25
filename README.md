@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/riteshjha8/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/riteshjha8/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
+| [1254-number-of-closed-islands](https://github.com/riteshjha8/Dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riteshjha8/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riteshjha8/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riteshjha8/Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/riteshjha8/Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/riteshjha8/Dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riteshjha8/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/riteshjha8/Dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/riteshjha8/Dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/riteshjha8/Dsa/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/riteshjha8/Dsa/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -274,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/riteshjha8/Dsa/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/riteshjha8/Dsa/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/riteshjha8/Dsa/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
