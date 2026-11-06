@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/riteshjha8/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/riteshjha8/Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/riteshjha8/Dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2747-count-zero-request-servers](https://github.com/riteshjha8/Dsa/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/riteshjha8/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/riteshjha8/Dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/riteshjha8/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/riteshjha8/Dsa/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/riteshjha8/Dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/riteshjha8/Dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/riteshjha8/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/riteshjha8/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riteshjha8/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/riteshjha8/Dsa/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/riteshjha8/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/riteshjha8/Dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/riteshjha8/Dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riteshjha8/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/riteshjha8/Dsa/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/riteshjha8/Dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
