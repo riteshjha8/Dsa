@@ -4,25 +4,18 @@ public:
     long long minimumCost(int cost1, int cost2, int costBoth,
                           int need1, int need2) {
 
-        long long ans = 0;
+        long long option1 = 1LL * need1 * cost1
+                          + 1LL * need2 * cost2;
 
-        // Buy items for the common requirement
-        int common = min(need1, need2);
+        long long mn = min(need1, need2);
+        long long mx = max(need1, need2);
 
-        if (costBoth < cost1 + cost2) {
-            ans += 1LL * common * costBoth;
-        } else {
-            ans += 1LL * common * (cost1 + cost2);
-        }
+        long long option2 = mn * costBoth
+                          + 1LL * (need1 - mn) * cost1
+                          + 1LL * (need2 - mn) * cost2;
 
-        // Remaining requirements
-        need1 -= common;
-        need2 -= common;
+        long long option3 = mx * costBoth;
 
-        // Greedily choose the cheaper option
-        ans += 1LL * need1 * min(cost1, costBoth);
-        ans += 1LL * need2 * min(cost2, costBoth);
-
-        return ans;
+        return min({option1, option2, option3});
     }
 };
