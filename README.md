@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/riteshjha8/Dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/riteshjha8/Dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/riteshjha8/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riteshjha8/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/riteshjha8/Dsa/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/riteshjha8/Dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshjha8/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/riteshjha8/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/riteshjha8/Dsa/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/riteshjha8/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riteshjha8/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/riteshjha8/Dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/riteshjha8/Dsa/tree/master/3524-find-x-value-of-array-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/riteshjha8/Dsa/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/riteshjha8/Dsa/tree/master/0912-sort-an-array) |
 | [1254-number-of-closed-islands](https://github.com/riteshjha8/Dsa/tree/master/1254-number-of-closed-islands) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/riteshjha8/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riteshjha8/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/riteshjha8/Dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riteshjha8/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/riteshjha8/Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/riteshjha8/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/riteshjha8/Dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/riteshjha8/Dsa/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
