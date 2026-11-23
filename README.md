@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/riteshjha8/Dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/riteshjha8/Dsa/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/riteshjha8/Dsa/tree/master/0125-valid-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/riteshjha8/Dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/riteshjha8/Dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riteshjha8/Dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/riteshjha8/Dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/riteshjha8/Dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/riteshjha8/Dsa/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshjha8/Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/riteshjha8/Dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/riteshjha8/Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
